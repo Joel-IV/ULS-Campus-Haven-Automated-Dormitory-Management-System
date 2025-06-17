@@ -56,9 +56,12 @@ Includes backup protocols, data encryption, and user authentication.
 Ready for scaling and mobile app integration.
 
 Screenshoots
-![Screenshot 2024-11-09 114414](https://github.com/user-attachments/assets/e1e9186d-8c72-441c-8f85-86d01a91358b)
-![Screenshot 2024-11-09 125435](https://github.com/user-attachments/assets/19cfcdca-a77e-4891-b2d5-26cd8ce4dfa7)
-![Screenshot 2024-12-03 064139](https://github.com/user-attachments/assets/4d26ad48-feb9-487b-a414-32051c672adc)
-![Screenshot 2024-12-03 064221](https://github.com/user-attachments/assets/c43e9113-f2a2-4d12-a614-f750bc8c8f80)]
-![Screenshot 2024-12-03 064240](https://github.com/user-attachments/assets/0fb7e79b-d57e-4349-8ffa-052c32a619af)
+![Screenshot 2024-12-03 064050](https://github.com/user-attachments/assets/1aff2279-4577-4df0-9a4f-c707151a5f6a)
+![Screenshot 2024-12-03 064139](https://github.com/user-attachments/assets/6211ddaf-0d7e-4c18-83a5-6cfde283d45c)
+![Screenshot 2024-12-03 064205](https://github.com/user-attachments/assets/f459e62c-bb9d-4b91-80ea-c8f230502087)
+![Screenshot 2024-12-03 064229](https://github.com/user-attachments/assets/300f2a8c-8814-4b3f-bfe6-e4797fd8bca5)
+![Screenshot 2024-12-03 064253](https://github.com/user-attachments/assets/3e650411-037e-4a4c-9222-82fa5c29dadf)
+
+
+
 
