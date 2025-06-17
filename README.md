@@ -55,7 +55,7 @@ Includes backup protocols, data encryption, and user authentication.
 
 Ready for scaling and mobile app integration.
 
-Screenshoots
+Screenshots
 ![Screenshot 2024-12-03 064050](https://github.com/user-attachments/assets/1aff2279-4577-4df0-9a4f-c707151a5f6a)
 ![Screenshot 2024-12-03 064139](https://github.com/user-attachments/assets/6211ddaf-0d7e-4c18-83a5-6cfde283d45c)
 ![Screenshot 2024-12-03 064205](https://github.com/user-attachments/assets/f459e62c-bb9d-4b91-80ea-c8f230502087)
